@@ -9,10 +9,10 @@ import (
 	"github.com/lxn/walk"
 	"github.com/lxn/walk/declarative"
 
-	"github.com/henrylee2cn/pholcus/app"
-	"github.com/henrylee2cn/pholcus/app/spider"
-	. "github.com/henrylee2cn/pholcus/gui/model"
-	"github.com/henrylee2cn/pholcus/runtime/status"
+	"github.com/luoyeaichifan/pholcus/app"
+	"github.com/luoyeaichifan/pholcus/app/spider"
+	. "github.com/luoyeaichifan/pholcus/gui/model"
+	"github.com/luoyeaichifan/pholcus/runtime/status"
 )
 
 // 执行入口

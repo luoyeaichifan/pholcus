@@ -6,12 +6,12 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/henrylee2cn/pholcus/app/downloader"
-	"github.com/henrylee2cn/pholcus/app/downloader/request"
-	"github.com/henrylee2cn/pholcus/app/pipeline"
-	"github.com/henrylee2cn/pholcus/app/spider"
-	"github.com/henrylee2cn/pholcus/logs"
-	"github.com/henrylee2cn/pholcus/runtime/cache"
+	"github.com/luoyeaichifan/pholcus/app/downloader"
+	"github.com/luoyeaichifan/pholcus/app/downloader/request"
+	"github.com/luoyeaichifan/pholcus/app/pipeline"
+	"github.com/luoyeaichifan/pholcus/app/spider"
+	"github.com/luoyeaichifan/pholcus/logs"
+	"github.com/luoyeaichifan/pholcus/runtime/cache"
 )
 
 // 采集引擎
